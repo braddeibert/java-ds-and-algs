@@ -1,0 +1,5 @@
+# ignore compiled Java and hidden files/dirs
+*.class
+.*
+
+!.gitignore
